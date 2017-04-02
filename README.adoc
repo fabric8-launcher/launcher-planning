@@ -1,0 +1,3 @@
+= appdev.openshift.io Planning Repository
+
+This repository acts as a planning center for the overall `appdev.openshift.io` effort; issues here may link together broad tasks that encompass changes in other repositories, or represent tracking of tasks unrelated to code.
