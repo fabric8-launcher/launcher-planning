@@ -1,3 +1,4 @@
-= appdev.openshift.io Planning Repository
+fabric8-launcher Planning Repository
+====================================
 
-This repository acts as a planning center for the overall `appdev.openshift.io` effort; issues here may link together broad tasks that encompass changes in other repositories, or represent tracking of tasks unrelated to code.
+This repository acts as a planning center for the overall `fabric8-launcher` effort; issues here may link together broad tasks that encompass changes in other repositories, or represent tracking of tasks unrelated to code.
