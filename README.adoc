@@ -1,4 +1,6 @@
 fabric8-launcher Planning Repository
 ====================================
 
+=== This repository is no longer used. File issues in https://github.com/fabric8-launcher/launcher-backend instead
+
 This repository acts as a planning center for the overall `fabric8-launcher` effort; issues here may link together broad tasks that encompass changes in other repositories, or represent tracking of tasks unrelated to code.
